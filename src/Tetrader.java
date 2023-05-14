@@ -1,3 +1,12 @@
+/*
+* File: ButtonPanel.java
+* Author: Andó Attila
+* Copyright: 2023, Andó Attila
+* Group: Szoft I/1/N 
+* Date: 2023-05-14
+* Github: https://github.com/halando/
+* Licenc: GNU GPL
+*/
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
